@@ -1,0 +1,43 @@
+# CODE FOR ALARM CLOCK
+    https://github.com/ROSHAN-KHANDAGALE/Alarm-Clock/blob/main/main.py
+    Line 17 is where the code is most relevant
+    it allows the users to easily set alarms, without internet use and specifies hours, minutes, and seconds.
+    this helps the real world because without alarm clocks, people wouldn't know when to wake up. 
+
+# CODE FOR ROCKET TARGETING SYSTEM
+    https://github.com/abnsl0014/Missile-Guidance-System.git
+    A missile guidance system for shooting object out of the air. Uses coordinates to hit the trajectory of the object. The lines where the code is most important,
+    there are many lines that involves coordinates on where the object is located. Line 17 seems like the important code towards predicting the coordinates.
+
+# CODE FOR FILE COMPRESSION UTILITY ALGORITHM
+    https://github.com/expressjs/compression/blob/master/test/compression.js
+    Compressing files allows you to easily move these files and send them if they're too large, this helps in real life in so many ways, the good ones cost money though. The important code in this one would be in line 12, teaching the computer what compression is. 
+# WEATHER FORECASTING ALGORITHM  
+    https://github.com/Prati5/WeatherPrediction/blob/master/weatherPrediction.ipynb?short_path=4b62ad6
+    Used for predicting the weather using the value of pressure at sea level, whether it's falling, rising or steady.
+    and wind directions. The important line seems to be lines 9-11 creating the basis for the actual coding of weather prediction
+# E-commerce checkout system process
+    https://github.com/Riadz/E-commerce/blob/master/checkout.php
+    Important lines 1-4 creating the base for the code. This code allows us to scan items and checkout
+    as well as pay for them, making the sales industry much easier then just cash transactions
+# Social media post scheduler
+    https://github.com/readysetcloud/social-media-scheduler.git
+    Schedules posts asynchronously, runs on a timer to simulate human activity. Within the folder called schedule-social-post.asl.json, the code in lines 2-4 seem like the most important lines to begin the process of coding this post scheduler.
+# Fitness app calorie counter
+    https://github.com/Erikote04/Calorie-Counter/blob/master/script.js
+    Line 22 seems the most important, it allows for the users to enter their calories, where it'll keep their information that they've input. Calorie counters help in many ways whether you want a calorie deficit to lose weight or more calories to gain weight/bulk up or even to stay at your weight.
+# Online Voting system mechanics
+    https://github.com/Candida18/Online-Voting-System.git
+    Lines 30 and 44 seem important to the voting process of creating the accounts to vote, so when you vote, you only get that one vote to make sure there's no cheating in voting multiple times for the same person. Voting is very important in daily life, and being able to vote online creates a way for more people to vote because the one's that work have a way to vote as well eliminating bias and skews.
+# Automated email response system
+    https://github.com/PrajwalCC/mail-auto-reply-system/blob/master/index.js
+    Line 38 seems the most important because it's creating the asyncronous function to send the email/reply to the email. Emails create such an easy way to send information from our devices without wasting paper by faxing everything, and a much faster and cleaner resource for everyday life. 
+# Sending text messages
+    https://github.com/typpo/textbelt/blob/master/lib/text.js
+    Line 13 seems like the important code because it pefors the action of sending the text message, text messages have saved lives in many ways and improved them as well, a quick efficient way to be able to contact people from vast distances
+# Code for air coniditioning
+    https://github.com/deiger/AirCon/blob/master/aircon/__main__.py
+    Line 38 seems to be a good basis for telling the computer how to function as well as line 50 teaching air conditioners their own functionality and controls to where us humans can use it automatically. Air conditioners are a great way to stay cool in the summer, has decreased heat strokes immensly.
+# Remotely controlling TV
+   https://github.com/Glavin001/tv-remote-cli/blob/master/index.js
+   The line important for this action sees to be line 9 and line 17. Controlling a tv with a remote creates so many possibilities for watching many shows and movies, this has controlled the entertainment industry and allowed it to blossom as well as getting news around and being able to visibly seet it.
